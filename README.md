@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @theDTS1
-- 👀 I’m interested in Full Stack development. 
+- 👋 Hi, I’m @theDTS1 - or as they call me IRL Drago Ivanov
+- 👀 I’m interested in JavaScipt Full Stack development and dabbling with Python.
 - 🌱 I’m currently learning everything on this planet. 
 
 
